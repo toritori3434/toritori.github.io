@@ -29,7 +29,7 @@ github:
   username: kimbamtol # change to your GitHub username
 
 twitter:
-  username: None # change to your Twitter username
+  username: X # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: toritori3434@naver.com
   links:
     # The first element serves as the copyright owner's link
-    - None
-    - None
+    - X
+    - X
     #- https://twitter.com/username # change to your Twitter homepage
     #- https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
